@@ -1,14 +1,14 @@
 [
   {
     "remote":      "github",
-    "repository":  "DirtyUnicorns/android_device_qcom-common",
+    "repository":  "CyanogenMod/android_device_qcom-common",
     "target_path": "device/qcom/common",
-    "revision":    "lollipop-caf"
+    "revision":    "cm12.1"
   },
   {
     "remote":      "github",
-    "repository":  "DirtyUnicorns/android_hardware_qcom_fm",
+    "repository":  "CyanogenMod/android_hardware_qcom_fm",
     "target_path": "hardware/qcom/fm",
-    "revision":    "lollipop-caf"
+    "revision":    "cm12.1"
   }
 ]
