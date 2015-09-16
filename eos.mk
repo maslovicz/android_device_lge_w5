@@ -9,5 +9,5 @@ $(call inherit-product, device/lge/w5/full_w5.mk)
 
 # Copy device specific prebuilt files.
 PRODUCT_COPY_FILES += \
-    vendor/eos/prebuilt/common/bootanimations/BOOTANIMATION-1280x768.zip:system/media/bootanimation.zip
+    device/lge/w5/bootanimation.zip:system/media/bootanimation.zip
 
